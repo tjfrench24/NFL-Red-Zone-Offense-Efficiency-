@@ -9,9 +9,18 @@ stalls out and there chance of winning decreases. The difference between scoring
 between winning and losing many games in an NFLseason. 
 
 Overview:
+
+
 NFLRedZoneEfficiencyFinal.rmd
-Analyzed both quantitative and qualitative NFL play-by-play data from 2019-2023 in R using logistic regression, random forest prediction modeling, hypothesis testing, as well 
-as ANOVA and post-hoc modeling. 
+
+
+Analyzed both quantitative and qualitative NFL play-by-play data from 2019-2023 in R using logistic regression, random forest prediction modeling, hypothesis testing, as well as ANOVA and post-hoc modeling. 
+
+
 Identified statistically significant variables predicting whether a play would result in a touchdown or a first down. 
+
+
 NFLRedZoneEfficiencyFinal.pdf
+
+
 Created a full report with project overview, data visualization, analyzation strategy outline, testing results, and conclusions/limitations.
