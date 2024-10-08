@@ -1,4 +1,6 @@
 Introduction: 
+
+
 The main guiding question for this project is: “How can NFL teams optimize their offensive output in the red zone?” The input variables in our study were the type of play ran, 
 meaning either pass or run, and play formation. These variables were associated with the outcomes of yards gained, as well as if the play resulted in a first down or a
 touchdown. Therefore, some smaller sub-questions to guide our project are: Are pass or run plays more likely to gain yards, score a touchdown, or achieve a first down
@@ -11,7 +13,7 @@ between winning and losing many games in an NFLseason.
 Overview:
 
 
-NFLRedZoneEfficiencyFinal.rmd
+NFLRedZoneEfficiencyFinal.rmd:
 
 
 Analyzed both quantitative and qualitative NFL play-by-play data from 2019-2023 in R using logistic regression, random forest prediction modeling, hypothesis testing, as well as ANOVA and post-hoc modeling. 
@@ -20,7 +22,7 @@ Analyzed both quantitative and qualitative NFL play-by-play data from 2019-2023 
 Identified statistically significant variables predicting whether a play would result in a touchdown or a first down. 
 
 
-NFLRedZoneEfficiencyFinal.pdf
+NFLRedZoneEfficiencyFinal.pdf:
 
 
 Created a full report with project overview, data visualization, analyzation strategy outline, testing results, and conclusions/limitations.
